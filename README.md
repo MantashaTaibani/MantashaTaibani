@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 Hi! I'm **Mantasha**, an Information Technology diploma student at **Shri Bhagubhai Mafatlal Polytechnic**.
 I'm interested in building practical projects and learning how different areas of technology work together.
@@ -34,8 +34,6 @@ I'm interested in building practical projects and learning how different areas o
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MantashaTaibani&show_icons=true&theme=dark)
 
 ---
-
-## 🤝 Connect With Me
 
 ## 🤝 Connect With Me
 
