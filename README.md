@@ -68,7 +68,7 @@ Cybersecurity Fundamentals, Computer Networking, Defensive Security
 ## Connect With Me
 
 [GitHub](https://github.com/MantashaTaibani) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
+[LinkedIn][(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mantasha-taibani-82b277382/)
 
 ---
 
