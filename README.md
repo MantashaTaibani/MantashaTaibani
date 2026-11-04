@@ -18,20 +18,25 @@ I enjoy learning new technologies, developing practical projects, and improving 
 
 ## Technical Skills
 
-**Programming Languages:**  
-Java, C++, PHP, JavaScript, Python (Beginner)
+**Programming Languages**
 
-**Web Development:**  
-HTML, CSS, JavaScript, React
+Java · C++ · PHP · JavaScript · Python (Beginner)
 
-**Database Management:**  
-MySQL, SQL
+**Web Development**
 
-**Tools and Platforms:**  
-Git, GitHub, Linux Basics
+HTML · CSS · JavaScript · React
 
-**Currently Learning:**  
-Cybersecurity Fundamentals, Computer Networking, Defensive Security
+**Database Management**
+
+MySQL · SQL
+
+**Tools and Platforms**
+
+Git · GitHub · Linux Basics
+
+**Currently Learning**
+
+Cybersecurity Fundamentals · Computer Networking · Defensive Security
 
 ---
 
@@ -61,15 +66,26 @@ Cybersecurity Fundamentals, Computer Networking, Defensive Security
 
 ## GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MantashaTaibani&show_icons=true&theme=dark)](https://github.com/MantashaTaibani)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MantashaTaibani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MantashaTaibani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## Connect With Me
 
-[GitHub](https://github.com/MantashaTaibani) 
-[LinkedIn][(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mantasha-taibani-82b277382/)
+<p>
+  <a href="https://github.com/MantashaTaibani">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mantasha-taibani-82b277382/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-*Learning continuously. Building practically. Improving consistently.*
+<p align="center">
+  <i>Learning continuously. Building practically. Improving consistently.</i>
+</p>
