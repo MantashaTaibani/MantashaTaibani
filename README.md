@@ -1,26 +1,31 @@
-# 👋 Hey, I'm Mantasha Taibani!
+ <h1 align="center">
+  <span style="color:#A78BFA">MANTASHA TAIBANI</span> 👋
+</h1>
 
-### 💻 Diploma IT Student | Aspiring Software Developer | Cybersecurity Enthusiast
+<h3 align="center">
+  💻 Diploma IT Student | Aspiring Software Developer | Cybersecurity Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Projects;Exploring+Cybersecurity;Learning+Something+New+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Projects+%26+Learning+New+Things;Exploring+Web+Development;Learning+Cybersecurity;Turning+Ideas+Into+Reality" />
 </p>
 
 ---
 
-## 🌐 About Me
+## 💜 About Me
 
-I'm an Information Technology diploma student at **Shri Bhagubhai Mafatlal Polytechnic**, passionate about technology, software development and cybersecurity.
+Hey! I'm **Mantasha Taibani**, an Information Technology diploma student at **Shri Bhagubhai Mafatlal Polytechnic**.
 
-- 💻 Exploring software and web development.
-- 🔐 Learning cybersecurity and computer networking.
-- 🛠️ Enjoy building practical projects.
-- 🌱 Always curious to explore new technologies.
-- 🎯 Focused on improving my technical and problem-solving skills.
+I'm passionate about technology, software development and cybersecurity. I enjoy exploring new tools, building practical projects and continuously improving my technical skills.
+
+- 💻 Interested in Software & Web Development
+- 🔐 Exploring Cybersecurity and Computer Networking
+- 🌱 Learning new technologies and development tools
+- 🚀 Building projects and gaining practical experience
 
 ---
 
-## ⚡ Tech Stack & Tools
+## ⚡ Tech Stack & Technologies
 
 ### 💻 Programming Languages
 
@@ -28,6 +33,7 @@ I'm an Information Technology diploma student at **Shri Bhagubhai Mafatlal Polyt
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
@@ -37,6 +43,7 @@ I'm an Information Technology diploma student at **Shri Bhagubhai Mafatlal Polyt
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ### 🗄️ Database
@@ -45,9 +52,12 @@ I'm an Information Technology diploma student at **Shri Bhagubhai Mafatlal Polyt
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🛡️ Cybersecurity & Networking
+### 🛠️ Tools & Platforms
 
 <p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
@@ -60,26 +70,26 @@ I'm an Information Technology diploma student at **Shri Bhagubhai Mafatlal Polyt
 |:---|:---|:---|
 | **FurniFind** | Smart furnishing catalogue search and visualization system. | Java, Swing, JDBC, MySQL |
 | **Feminine Jewels** | E-commerce website for imitation jewellery with user and admin functionality. | PHP, MySQL, HTML, CSS, JS |
-| **Career Guidance Website** | A platform helping students explore career opportunities. | HTML, CSS, JavaScript |
+| **Career Guidance Website** | Platform designed to help students explore career opportunities. | HTML, CSS, JavaScript |
 | **React Counter App** | Interactive counter application. | React |
 | **Q-FLOW** | Hackathon concept for appointment booking and queue management. | Web Development |
-| **Security Log Analyzer** | Cybersecurity learning project focused on security log analysis. | Python, Cybersecurity |
+| **Security Log Analyzer** | Cybersecurity learning project focused on analysing security logs. | Python |
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Exploring
 
-- Strengthening programming fundamentals.
-- Exploring ethical hacking and cybersecurity.
-- Learning computer networking.
-- Developing practical software projects.
-- Improving problem-solving skills.
+- 🔐 Cybersecurity Fundamentals
+- 🌐 Computer Networking
+- 🐧 Linux and Command Line
+- 💻 Software Development
+- ⚙️ Building practical applications
 
 ---
 
-## 🤝 Let's Connect!
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/MantashaTaibani">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -91,9 +101,13 @@ I'm an Information Technology diploma student at **Shri Bhagubhai Mafatlal Polyt
 ---
 
 <p align="center">
-  <i>"Learning continuously. Building practically. Growing consistently."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <i>Learning continuously. Building practically. Growing consistently.</i>
 </p>
+
+<h3 align="center">
+  💜 Thanks for visiting my profile!
+</h3>
